@@ -4,6 +4,8 @@ import Logout from './Logout';
 import TaskList from './TaskList';
 import AuthViewer from './AuthViewer';
 
+import "../styles/styles.scss";
+
 function App() {
     return (
         <div className='App'>
