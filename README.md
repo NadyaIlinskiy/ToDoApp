@@ -1,7 +1,7 @@
 # Lab 28-29
 
-* [Code SendBox](https://codesandbox.io/s/tender-napier-5wfn7)
-* [Netlify](https://csb-5wfn7.netlify.com)
+* [Code SendBox](https://codesandbox.io/s/nifty-snow-v9tnk)
+* [Netlify](https://csb-v9tnk.netlify.com)
 
 * [Backend](https://nadili-todoserver.herokuapp.com)
 
