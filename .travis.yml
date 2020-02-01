@@ -1,7 +1,7 @@
 language: node_js
-node_js: node
-cache: npm
+node_js:
+  - "9"
+
 script:
+  - npm run lint
   - npm test
-after_success:
-  - npm run coverage
